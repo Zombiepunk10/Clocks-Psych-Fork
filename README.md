@@ -2,7 +2,7 @@
 
 ## Fork Stuff
 My current fork is only the base Psych Engine, but I may mod or tweak scource code to my liking and change it here, or create a new Repository.
-If this happens, I'll link it here.
+If this happens, I'll make a new release.
 
 ## Credits:
 * Shadow Mario - Main Programmer and Head of Psych Engine.
